@@ -1,9 +1,17 @@
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+
+### 代表项目
+
+<a href="https://github.com/lhwnb/excel-snake-game">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lhwnb&repo=excel-snake-game&theme=dark&hide_border=true&bg_color=00000000&title_color=94A3B8&icon_color=64748B&text_color=C9D1D9" />
+</a>
+
+</div>
+
+<br>
 
 ### 个人简介
 
@@ -15,8 +23,7 @@
 - 前端实现追求严格对齐与统一布局
 - 关注业务逻辑完整性与系统可维护性
 
-</td>
-<td width="50%" valign="top">
+<br>
 
 ### 技术方向
 
@@ -28,10 +35,6 @@
 | AI 集成 | LLM API、Prompt 工程、Agent 工作流 |
 | 后端服务 | Node.js、Python、FastAPI |
 | 数据处理 | CSV、XLSX、JSON 解析与渲染 |
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -89,18 +92,6 @@
 <br>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhwnb&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=94A3B8&text_color=C9D1D9" alt="top langs" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 代表项目
-
-<a href="https://github.com/lhwnb/excel-snake-game">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lhwnb&repo=excel-snake-game&theme=dark&hide_border=true&bg_color=00000000&title_color=94A3B8&icon_color=64748B&text_color=C9D1D9" />
-</a>
 
 </div>
 
