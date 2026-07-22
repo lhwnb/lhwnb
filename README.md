@@ -14,10 +14,10 @@
 ### 👨‍💻 关于我
 
 一个苦逼的**全栈开发者**。
-热衷于网页自动化，摸鱼比如把贪吃蛇伪装成 Excel。
+热衷于网页自动化，爬虫，摸鱼，比如把贪吃蛇伪装成 Excel。
 
 - 🏢 目前在用代码改变世界（的一小部分）
-- 🌱 正在深挖 **React 生态** 与 **AI 工程化**
+- 🌱 正在深挖 **AI 工程化**
 - 💬 问我关于：前端工程化、TypeScript、摸鱼工具
 - ⚡ Fun fact：我的代码和我一样，偶尔需要一杯咖啡才能跑起来
 
@@ -86,7 +86,9 @@
 
 ### 📫 找到我
 
-<a href="mailto:t.me/bigcock_lhw"><img src="https://img.shields.io/badge/Email-2536818569@qq.com-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/bigcock_lhw">
+  <img src="https://img.shields.io/badge/Telegram-@bigcock_lhw-26A5E4?logo=telegram&logoColor=white" />
+</a>
 <a href="https://github.com/lhwnb"><img src="https://img.shields.io/badge/GitHub-@lhwnb-181717?logo=github&logoColor=white" /></a>
 
 </div>
