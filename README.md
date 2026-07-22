@@ -1,83 +1,220 @@
 <div align="center">
 
-<!-- 标题动图效果用打字机 SVG 替代 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=217346&center=true&vCenter=true&random=false&width=600&lines=Hello+World+%F0%9F%91%8B;I'm+%40lhwnb;Code+%E2%80%A2+Coffee+%E2%80%A2+Repeat" alt="Typing SVG" />
+```diff
++ ┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳┳ +
++ ┃  SYSTEM  ONLINE  │  KERNEL  v6.2.4  │  UPTIME  99.9%  │  STATUS  CODING  ┃ +
++ ┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻ +
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=620&lines=%24+whoami;%24+lhwnb;%24+cat+%2Fetc%2Fdeveloper;backend+%2B+frontend+%2B+automation;%24+exit+0" alt="terminal" />
 
 </div>
 
 <br>
 
+```yaml
+name: lhwnb
+role: Full-Stack Developer
+location: Earth.Asia.CN
+focus: [Automation, Web3, Frontend Engineering, System Tools]
+ide: [Trae, VSCode, Neovim]
+shell: pwsh + bash
+os: [Windows, Linux]
+status: available_for_collaboration
+```
+
+---
+
+## ▌TECH STACK MATRIX
+
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="33%">
 
-### 👨‍💻 关于我
+### LANGUAGES
 
-一个白天写代码、晚上也写代码的**全栈开发者**。
-热衷于把无聊的事情变得有趣，比如把贪吃蛇伪装成 Excel。
-
-- 🏢 目前在用代码改变世界（的一小部分）
-- 🌱 正在深挖 **React 生态** 与 **AI 工程化**
-- 🎯 2024 目标：多造轮子，少造 bug
-- 💬 问我关于：前端工程化、TypeScript、摸鱼工具
-- ⚡ Fun fact：我的代码和我一样，偶尔需要一杯咖啡才能跑起来
+```
+Python ████████████  primary
+TypeScript ████████   fluent
+JavaScript ████████    fluent
+Go ███                  learning
+SQL █████                solid
+HTML/CSS ███████         solid
+```
 
 </td>
-<td width="50%">
+<td valign="top" width="33%">
 
-### 🛠️ 技术栈
+### FRAMEWORKS & RUNTIME
 
-**前端**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-42B883?logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?logo=tailwindcss&logoColor=white)
+```
+React 18      ████████
+Node.js       ████████
+FastAPI       █████
+Vite          ██████
+Zustand       ████
+Tailwind      █████
+Puppeteer     █████
+Playwright    ████
+```
 
-**后端**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-**工具 & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+### INFRA & TOOLS
+
+```
+Git / GitHub   ████████
+Docker         █████
+Linux          ██████
+Nginx          ████
+Redis          ███
+MySQL          ████
+REST API       ██████
+Proxy Pool     █████
+```
 
 </td>
 </tr>
 </table>
 
+### DOMAIN EXPERTISE
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Automation Engineering                                         │
+│  ├── Browser automation (Puppeteer / Playwright)                │
+│  ├── Multi-account orchestration                                │
+│  ├── Proxy rotation & session management                        │
+│  └── CAPTCHA solving pipeline                                   │
+├─────────────────────────────────────────────────────────────────┤
+│  Web3 / Blockchain                                              │
+│  ├── On-chain interaction (EVM chains)                          │
+│  ├── Wallet management                                          │
+│  ├── Testnet node operation                                     │
+│  └── Smart contract interaction                                 │
+├─────────────────────────────────────────────────────────────────┤
+│  Frontend Engineering                                           │
+│  ├── Component architecture (React + TypeScript)                │
+│  ├── State management (Zustand)                                 │
+│  ├── Pixel-perfect UI implementation                            │
+│  └── File parsing (CSV / XLSX / JSON)                           │
+├─────────────────────────────────────────────────────────────────┤
+│  AI Integration                                                 │
+│  ├── LLM API integration (Groq / OpenAI-compatible)             │
+│  ├── Prompt engineering                                         │
+│  └── Agent workflow design                                      │
+└─────────────────────────────────────────────────────────────────┘
+```
+
 ---
+
+## ▌SYSTEM STATISTICS
 
 <div align="center">
 
-### 📊 GitHub 统计
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lhwnb&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lhwnb&theme=chartreuse-dark&hide_border=true" alt="streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lhwnb&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lhwnb&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9" alt="streak" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lhwnb&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lhwnb&theme=github-compact&hide_border=true&area=true&color=00FF41&line=00FF41&point=00FF41" width="100%" alt="activity" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhwnb&layout=compact&theme=chartreuse-dark&hide_border=true" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhwnb&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="top langs" />
 
 </div>
 
 ---
 
-<div align="center">
+## ▌REPOSITORIES
 
-### 🎮 精选项目
+<div align="center">
 
 <a href="https://github.com/lhwnb/excel-snake-game">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lhwnb&repo=excel-snake-game&theme=chartreuse-dark&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lhwnb&repo=excel-snake-game&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
 </a>
 
-<br><br>
+</div>
+
+### PROJECT INDEX
+
+```
+$ ls ~/projects/
+
+drwxr-xr-x  excel-snake-game/     # React + TS snake game disguised as Excel
+                              # Zustand + Tailwind + SheetJS
+                              # 5 scenarios + CSV/XLSX upload
+drwxr-xr-x  automation-bots/      # Browser automation & multi-account orchestration
+                              # Python + Puppeteer + proxy rotation
+drwxr-xr-x  web3-tools/           # On-chain interaction & testnet node operation
+                              # EVM chains + wallet management
+drwxr-xr-x  ai-integrations/      # LLM API integration & agent workflows
+                              # Groq + OpenAI-compatible APIs
+```
+
+---
+
+## ▌TOOLBELT
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+</div>
+
+---
+
+## ▌WORKFLOW
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   [Idea] ──> [Design] ──> [Code] ──> [Test] ──> [Ship]  │
+│      │           │          │          │          │      │
+│      v           v          v          v          v      │
+│   research    schema    implement    verify     deploy   │
+│                                                          │
+│   Principles:                                            │
+│   - Minimal scope, maximal impact                        │
+│   - Bug-driven development: fix root cause, not symptom  │
+│   - Impact assessment before implementation              │
+│   - Pixel-perfect UI, strict alignment                   │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ▌CONTACT
+
+```
+$ cat ~/.contact
+
+email     : 2536818569@qq.com
+github    : github.com/lhwnb
+status    : open to collaboration
+response  : usually within 24h
+```
+
+<div align="center">
+
+<a href="mailto:2536818569@qq.com"><img src="https://img.shields.io/badge/Email-2536818569@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/lhwnb"><img src="https://img.shields.io/badge/GitHub-lhwnb-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=lhwnb&label=VISITORS&color=00FF41&style=flat-square" alt="visitors" />
 
 </div>
 
@@ -85,25 +222,9 @@
 
 <div align="center">
 
-### 📫 找到我
+```diff
+- "Code is law. Automation is freedom. - anonymous"
++ $ shutdown -h now
+```
 
-<a href="mailto:2536818569@qq.com"><img src="https://img.shields.io/badge/Email-2536818569@qq.com-D14836?logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/lhwnb"><img src="https://img.shields.io/badge/GitHub-@lhwnb-181717?logo=github&logoColor=white" /></a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lhwnb&label=Profile+Views&color=217346&style=flat-square" alt="profile views" />
-
-</div>
-
----
-
-<div align="center">
-<i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
-<br><br>
-<i>但偶尔也可以 talk 一下，毕竟代码写累了 ☕</i>
 </div>
