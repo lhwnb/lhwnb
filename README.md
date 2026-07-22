@@ -1,22 +1,25 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:334155,100:475569&height=160&section=header&text=lhwnb&fontSize=70&fontColor=F1F5F9&fontAlignY=40&desc=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88&descSize=16&descColor=94A3B8&descAlignY=60&animation=fadeIn" width="100%" />
+
+</div>
 
 <br>
 
-<div align="center">
+### 项目履历
 
-### 代表项目
-
-<a href="https://github.com/lhwnb/excel-snake-game">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lhwnb&repo=excel-snake-game&theme=dark&hide_border=true&bg_color=00000000&title_color=94A3B8&icon_color=64748B&text_color=C9D1D9" />
-</a>
-
-</div>
+| 项目 | 说明 | 技术栈 |
+|------|------|--------|
+| [Excel 贪吃蛇游戏](https://github.com/lhwnb/excel-snake-game) | 伪装成 Excel 界面的贪吃蛇游戏，支持 5 种报表场景与 CSV/XLSX 文件上传渲染 | React 18、TypeScript、Zustand、Tailwind、SheetJS |
+| 自动化机器人 | 浏览器自动化与多账号编排系统，集成代理轮换与验证码处理 | Python、Puppeteer、Playwright |
+| Web3 工具集 | EVM 兼容链上交互、钱包管理与测试网节点运营 | Python、Web3.py |
+| AI 集成方案 | LLM API 接入与 Agent 工作流设计 | Node.js、Groq、OpenAI 兼容 API |
 
 <br>
 
 ### 个人简介
 
 全栈开发工程师，主攻方向为自动化工程与前端工程化。具备完整的前后端开发能力，同时涉猎 Web3 链上交互与 AI 接口集成。
-自动化运维与测试
 
 - 重视工程影响评估，遵循最小改动、最大收益原则
 - 侧重根因修复，避免短期补丁造成长期维护负担
@@ -27,14 +30,23 @@
 
 ### 技术方向
 
-| 方向 | 主要技术 |
-|------|---------|
-| 自动化工程 | 浏览器自动化、多账号编排、代理池 |
-| Web3 | EVM 链上交互、钱包管理、测试网节点 |
-| 前端工程 | React、TypeScript、Zustand、Tailwind |
-| AI 集成 | LLM API、Prompt 工程、Agent 工作流 |
-| 后端服务 | Node.js、Python、FastAPI |
-| 数据处理 | CSV、XLSX、JSON 解析与渲染 |
+**自动化工程**
+浏览器自动化、多账号编排、代理池轮换。基于 Puppeteer / Playwright 构建任务编排系统，支持验证码处理、指纹隔离与调度策略，可稳定运行多账号并发任务。
+
+**Web3**
+EVM 兼容链上交互、钱包管理与测试网节点运营。使用 Web3.py / ethers.js 完成合约调用、签名交易与事件监听，覆盖测试网节点搭建与链上数据抓取场景。
+
+**前端工程**
+React、TypeScript、Zustand、Tailwind。专注组件化架构与状态管理，追求像素级还原与统一设计规范，熟悉 Vite 构建链路与前端工程化配置。
+
+**AI 集成**
+LLM API、Prompt 工程、Agent 工作流。接入 OpenAI 兼容接口（Groq 等），设计多步 Agent 编排与函数调用，覆盖对话、代码生成与数据处理场景。
+
+**后端服务**
+Node.js、Python、FastAPI。具备 RESTful API 设计、异步任务队列、Redis 缓存与数据库交互能力，可独立完成前后端联调与部署。
+
+**数据处理**
+CSV、XLSX、JSON 解析与渲染。熟悉 PapaParse / SheetJS 解析链路，支持大文件流式处理与前端表格渲染，可对接多源数据格式转换。
 
 <br>
 
@@ -94,25 +106,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhwnb&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=94A3B8&text_color=C9D1D9" alt="top langs" />
 
 </div>
-
-<br>
-
-<table>
-<tr>
-<td width="100%">
-
-### 项目履历
-
-| 项目 | 说明 | 技术栈 |
-|------|------|--------|
-| Excel 贪吃蛇游戏 | 伪装成 Excel 界面的贪吃蛇游戏，支持 5 种报表场景与 CSV/XLSX 文件上传渲染 | React 18、TypeScript、Zustand、Tailwind、SheetJS |
-| 自动化机器人 | 浏览器自动化与多账号编排系统，集成代理轮换与验证码处理 | Python、Puppeteer、Playwright |
-| Web3 工具集 | EVM 兼容链上交互、钱包管理与测试网节点运营 | Python、Web3.py |
-| AI 集成方案 | LLM API 接入与 Agent 工作流设计 | Node.js、Groq、OpenAI 兼容 API |
-
-</td>
-</tr>
-</table>
 
 <br>
 
