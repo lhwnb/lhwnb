@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:334155,100:475569&height=160&section=header&text=lhwnb&fontSize=70&fontColor=F1F5F9&fontAlignY=40&desc=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88&descSize=16&descColor=94A3B8&descAlignY=60&animation=fadeIn" width="100%" />
-
-</div>
 
 <br>
 
@@ -13,6 +8,7 @@
 ### 个人简介
 
 全栈开发工程师，主攻方向为自动化工程与前端工程化。具备完整的前后端开发能力，同时涉猎 Web3 链上交互与 AI 接口集成。
+自动化运维与测试
 
 - 重视工程影响评估，遵循最小改动、最大收益原则
 - 侧重根因修复，避免短期补丁造成长期维护负担
