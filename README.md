@@ -1,19 +1,7 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:334155,100:475569&height=160&section=header&text=lhwnb&fontSize=70&fontColor=F1F5F9&fontAlignY=40&desc=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88&descSize=16&descColor=94A3B8&descAlignY=60&animation=fadeIn" width="100%" />
-
-</div>
 
 <br>
 
-### 项目履历
-
-| 项目 | 说明 | 技术栈 |
-|------|------|--------|
-| [Excel 贪吃蛇游戏](https://github.com/lhwnb/excel-snake-game) | 伪装成 Excel 界面的贪吃蛇游戏，支持 5 种报表场景与 CSV/XLSX 文件上传渲染 | React 18、TypeScript、Zustand、Tailwind、SheetJS |
-| 自动化机器人 | 浏览器自动化与多账号编排系统，集成代理轮换与验证码处理 | Python、Puppeteer、Playwright |
-| Web3 工具集 | EVM 兼容链上交互、钱包管理与测试网节点运营 | Python、Web3.py |
-| AI 集成方案 | LLM API 接入与 Agent 工作流设计 | Node.js、Groq、OpenAI 兼容 API |
 
 <br>
 
