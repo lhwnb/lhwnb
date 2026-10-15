@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:334155,100:475569&height=120&section=header&animation=fadeIn" width="100%"/>
 
-**全栈开发工程师** · 自动化工程与前端工程化 · Web3 链上交互 · AI 接口集成
-
-</div>
-
-<br>
-
-<div align="center">
 
 ## 🛠 技术栈
 
@@ -62,6 +54,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:475569,50:334155,100:1E293B&height=100&section=footer&animation=fadeIn" width="100%"/>
+
 
 </div>
