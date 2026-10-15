@@ -1,11 +1,16 @@
+<div align="center">
 
+# Hi there, I'm lhwnb 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:334155,100:475569&height=120&section=header&animation=fadeIn" width="100%"/>
+
+**全栈开发工程师** · 自动化工程与前端工程化 · Web3 链上交互 · AI 接口集成
+
+</div>
 
 <br>
 
-
-<br>
-
-### 个人简介
+## 👤 关于我
 
 全栈开发工程师，主攻方向为自动化工程与前端工程化。具备完整的前后端开发能力，同时涉猎 Web3 链上交互与 AI 接口集成。
 
@@ -16,31 +21,25 @@
 
 <br>
 
-### 技术方向
+## 🚀 技术方向
 
-**自动化工程**
-浏览器自动化、多账号编排、代理池轮换。基于 Puppeteer / Playwright 构建任务编排系统，支持验证码处理、指纹隔离与调度策略，可稳定运行多账号并发任务。
+**自动化工程** — 浏览器自动化、多账号编排、代理池轮换。基于 Puppeteer / Playwright 构建任务编排系统，支持验证码处理、指纹隔离与调度策略，可稳定运行多账号并发任务。
 
-**Web3**
-EVM 兼容链上交互、钱包管理与测试网节点运营。使用 Web3.py / ethers.js 完成合约调用、签名交易与事件监听，覆盖测试网节点搭建与链上数据抓取场景。
+**Web3** — EVM 兼容链上交互、钱包管理与测试网节点运营。使用 Web3.py / ethers.js 完成合约调用、签名交易与事件监听，覆盖测试网节点搭建与链上数据抓取场景。
 
-**前端工程**
-React、TypeScript、Zustand、Tailwind。专注组件化架构与状态管理，追求像素级还原与统一设计规范，熟悉 Vite 构建链路与前端工程化配置。
+**前端工程** — React、TypeScript、Zustand、Tailwind。专注组件化架构与状态管理，追求像素级还原与统一设计规范，熟悉 Vite 构建链路与前端工程化配置。
 
-**AI 集成**
-LLM API、Prompt 工程、Agent 工作流。接入 OpenAI 兼容接口（Groq 等），设计多步 Agent 编排与函数调用，覆盖对话、代码生成与数据处理场景。
+**AI 集成** — LLM API、Prompt 工程、Agent 工作流。接入 OpenAI 兼容接口（Groq 等），设计多步 Agent 编排与函数调用，覆盖对话、代码生成与数据处理场景。
 
-**后端服务**
-Node.js、Python、FastAPI。具备 RESTful API 设计、异步任务队列、Redis 缓存与数据库交互能力，可独立完成前后端联调与部署。
+**后端服务** — Node.js、Python、FastAPI。具备 RESTful API 设计、异步任务队列、Redis 缓存与数据库交互能力，可独立完成前后端联调与部署。
 
-**数据处理**
-CSV、XLSX、JSON 解析与渲染。熟悉 PapaParse / SheetJS 解析链路，支持大文件流式处理与前端表格渲染，可对接多源数据格式转换。
+**数据处理** — CSV、XLSX、JSON 解析与渲染。熟悉 PapaParse / SheetJS 解析链路，支持大文件流式处理与前端表格渲染，可对接多源数据格式转换。
 
 <br>
 
 <div align="center">
 
-### 技术栈
+## 🛠 技术栈
 
 **编程语言**
 <br>
@@ -80,7 +79,7 @@ CSV、XLSX、JSON 解析与渲染。熟悉 PapaParse / SheetJS 解析链路，�
 
 <div align="center">
 
-### GitHub 数据
+## 📊 GitHub 数据
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=lhwnb&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=94A3B8&icon_color=64748B&text_color=C9D1D9&count_private=true" alt="stats" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lhwnb&theme=dark&hide_border=true&background=00000000&ring=64748B&fire=94A3B8&currStreakLabel=64748B&sideLabels=C9D1D9&dates=C9D1D9" alt="streak" />
@@ -99,7 +98,7 @@ CSV、XLSX、JSON 解析与渲染。熟悉 PapaParse / SheetJS 解析链路，�
 
 <div align="center">
 
-### 开发原则
+## 🧭 开发原则
 
 | 原则 | 说明 |
 |------|------|
@@ -114,18 +113,18 @@ CSV、XLSX、JSON 解析与渲染。熟悉 PapaParse / SheetJS 解析链路，�
 
 <div align="center">
 
-### 联系方式
+## 📫 Find me
 
 <a href="https://t.me/bigcock_lhw">
-<img src="https://img.shields.io/badge/Telegram-@bigcock__lhw-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-@bigcock__lhw-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://github.com/lhwnb">
-<img src="https://img.shields.io/badge/GitHub-lhwnb-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-lhwnb-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=lhwnb&label=访客统计&color=64748B&style=flat-square" alt="visitors" />
+<img src="https://komarev.com/ghpvc/?username=lhwnb&label=访客统计&color=64748B&style=for-the-badge" alt="visitors" />
 
 </div>
 
